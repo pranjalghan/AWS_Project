@@ -2,6 +2,13 @@
 
 This project demonstrates how to host a static website on AWS S3.
 
+## Links to my Website -
+
+Check out [My_AWS_Static_Website](https://ducw64i5kz0k7.cloudfront.net/).
+
+http://myfirsts3cloudproject.s3-website-us-east-1.amazonaws.com/
+
+
 ## Project Structure
 
 - `index.html` - Main landing page.
